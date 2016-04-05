@@ -1,0 +1,6 @@
+IP-Adresse des Clients,Name,Leaseablaufdatum,Typ,Eindeutige Kennung,Beschreibung
+192.0.2.23,android-id.example.com,12.04.2016 07:19:27,DHCP,00508b65d907,
+192.0.2.24,edv1-01.example.com,12.04.2016 12:06:45,DHCP,d8d385116f84,
+192.0.2.25,DAP-2310.example.com,Reservierung (aktiv),DHCP,685d4351adcf,AP05
+192.0.2.26,DAP-2310.example.com,Reservierung (aktiv),DHCP,a402b9b22adc,AP06
+192.0.2.42,printer01.example.com,Reservierung (aktiv),DHCP,0002a59ed73e,Example Printer

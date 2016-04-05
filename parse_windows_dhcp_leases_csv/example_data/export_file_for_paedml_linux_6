@@ -1,0 +1,4 @@
+ipmanagedclient	ap05	68:5d:43:51:ad:cf	schule	10.1.0.0/24	AP05					0	
+ipmanagedclient	ap06	a4:02:b9:b2:2a:dc	schule	10.1.0.0/24	AP06					0	
+windows	edv1-pc01	d8:d3:85:11:6f:84	schule	10.1.0.0/24						0	
+ipmanagedclient	printer01	00:02:a5:9e:d7:3e	schule	10.1.0.0/24	Example Printer					0	
