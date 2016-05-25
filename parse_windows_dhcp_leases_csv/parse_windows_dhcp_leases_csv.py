@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 # encoding: utf-8
 
-__author__ = 'Robin Schneider <robin.schneider@hamcos.de>'
 __license__ = 'AGPL-3.0'
+__author__ = 'Robin Schneider <robin.schneider@hamcos.de>'
+#
+# @author Copyright (C) 2016 Robin Schneider <ypid@riseup.net>
 # @company hamcos IT Service GmbH http://www.hamcos.de
 #
 # This program is free software: you can redistribute it and/or modify
