@@ -1,4 +1,4 @@
-.PHONY: default all
+.PHONY: default examples
 default: examples
 
 examples: example_data/export_file_for_paedml_linux_6
