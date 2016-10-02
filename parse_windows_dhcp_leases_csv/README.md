@@ -1,10 +1,10 @@
 # parse_windows_dhcp_leases_csv
 
+**This script has been deprecated in favor to [hlc](https://github.com/ypid/hlc).**
+
 Small script to parse the Microsoft Windows DHCP Server leases CSV export and
 convert it to the workstation format paedML Linux 6.0 can import.
 Microsoft Windows Server → paedML Linux 6.0: One step in the right direction :wink:
-Implementing a second export format matching the
-[linuxmuster.net](https://linuxmuster.net/) format should also be possible.
 
 Example structure of the input file:
 
